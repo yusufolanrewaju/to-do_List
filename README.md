@@ -1,6 +1,7 @@
 # Todo List App with Timestamps
 
 ![App Screenshot](Assets/mobile.png)
+![App Screenshot](Assets/mobile-android.png)
 
 ## Overview
 
@@ -37,10 +38,10 @@ If you'd like to contribute to this project, follow these steps:
 
 - [FontAwesome](https://fontawesome.com/) for the task delete icon.
 - [UXWing](https://uxwing.com/) for the app icon, mark icon and unchecked icon.
-- [YouTube]I tapped some ideas from OnlineTutorial, Mitali Jadhavrao and Abi Nas.
-- [Mr.Vincent] for inspiration.
+- [YouTube](https://youtube.com/)I tapped some ideas from OnlineTutorial, Mitali Jadhavrao and Abi Nas.
+- [Mr.Vincent]() for inspiration.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 
